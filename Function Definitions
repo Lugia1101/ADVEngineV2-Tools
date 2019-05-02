@@ -1,0 +1,12 @@
+Functions within moacode.mwb compiled byte-code
+Format is C-like
+
+Description <1 byte function> <var>
+
+<05>
+<06>
+Unknown <07> <sint64 function value from built-in> <null>
+<15> <uint32 unknown>
+String <1A> <uint32 string length> <string>
+ListBegin <20> <uint32 unknown count>
+ListEnd <21>
