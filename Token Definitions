@@ -1,3 +1,17 @@
 List of tokens passed to Function 0x06
+Big Endian uint32
 
 Name <value>
+
+Null/No Value <0x00>
+Unknown <0x01>
+Unknown <0x02>
+Unknown <0x03>
+Unknown <0x05>
+Unknown <0x08>
+Unknown <0x0E>
+Unknown <0x23>
+Unknown <0x28>
+Unknown <0x29>
+Unknown <0x2A>
+Unknown <0xFE>
