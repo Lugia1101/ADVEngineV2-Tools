@@ -1,7 +1,7 @@
 Functions within moacode.mwb compiled byte-code
 Format is C-like Big-Endian
 
-Function Name <1 byte function> <var>
+Name <1 byte function> <var>
 
 Unknown <0x05> <uint32 unknown>
 Token <0x06> <uint32 token>
