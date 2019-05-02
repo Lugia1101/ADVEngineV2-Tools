@@ -1,7 +1,7 @@
 Functions within moacode.mwb compiled byte-code
 Format is C-like
 
-Description <1 byte function> <var>
+Function Name <1 byte function> <var>
 
 <05>
 <06>
