@@ -3,7 +3,7 @@ Big Endian sint32
 
 Name <sint32> [value]
 
-Undefined <0x00> [未定義]
+Undefined <0x00000000> [未定義]
 Built-in function name <0x00000001> [組み込み関数名]
 Unknown string <0x00000002> [不明文字列]
 Integer value <0x00000003> [整数値[0]]
