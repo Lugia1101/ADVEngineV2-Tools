@@ -1,0 +1,12 @@
+GxContentBinaryReader/ValueType
+Big-Endian
+
+Name <char> [value]
+
+Unknown VALTYPE_GxBit32 <0x05> [uint32 unknown]
+VALTYPE_GxBit32 Token <0x06> [uint32 token]
+VALTYPE_GxBit32 Function <0x07> [sint64 function value from built-in]
+Unknown VALTYPE_GxBit32 <0x15> [uint32 unknown]
+VALTYPE_GxStringSJIS/VALTYPE_GxStringUTF8 <0x1A> [uint32 string length] [string null-terminated]
+VALTYPE_ListBegin <0x20> [uint32 unknown count]
+VALTYPE_ListEnd <0x21>
