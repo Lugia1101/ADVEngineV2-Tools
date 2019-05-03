@@ -7,9 +7,9 @@ VALTYPE_GxBit32 32-bit Integer <0x05> [sint32]
 VALTYPE_GxBit32 Function Token <0x06> [uint32 token]
 VALTYPE_GxBit32 64-bit Integer <0x07> [sint64]
 VALTYPE_GxBit32 Function <0x15> [uint32 0x00 - 0x05]
-  0x00 - 
-  0x01 -
-  0x02 -
+  0x00 - Takes Token
+  0x01 - Takes Token and a s64
+  0x02 - Takes Token and 8 s32's
   0x03 -
   0x04 -
   0x05 -
