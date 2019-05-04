@@ -10,8 +10,8 @@ VALTYPE_GxBit32 Function <0x15> [uint32 0x00 - 0x05]
   0x00 - Takes Token
   0x01 - Takes Token and a s64
   0x02 - Takes Token and 8 s32's
-  0x03 -
-  0x04 -
+  0x03 - Takes Token, s64, and 8 s32's
+  0x04 - Takes Token and String
   0x05 -
 VALTYPE_GxStringSJIS/VALTYPE_GxStringUTF8 <0x1A> [sint32 string length] [string null-terminated]
 VALTYPE_ListBegin <0x20> [uint32]
